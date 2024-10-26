@@ -61,5 +61,5 @@ My Personal Statement here: [Shadiya's PS](../assets/PS Shadiya.pdf).
 - *2024*, Research on the Cultural Changes and Characteristic Development Pathways of Traditional Linpan Settlement Systems in Western Sichuan. (Approval Number: SCJJ24ND055) 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Professional Experience
+# 💻 Internships
 - *2024.07 - 2024.09*, [The third Bureau of CSCEC(China State Construction Engineering Corporation)](https://github.com/), Intern, Technology Assistant   Chongqing, China.
