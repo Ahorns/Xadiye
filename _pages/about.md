@@ -21,7 +21,7 @@ I am a bachelor's student in Urban and Rural Planning at Southwest Jiaotong Univ
 
 My research focuses on studying the impact of urban and rural environments on local residents’ activities, as well as utilizing computer vision, machine learning, and mixed reality technologies to create digital twins of real assets.
 
-You'll find my curriculum vitae uploaded here: [Shadiya's CV](../assets/Shadiya CV.pdf).
+You'll find my curriculum vitae uploaded here: [Shadiya's CV](../assets/Shadiya's CV.pdf).
 
 My Personal Statement here: [Shadiya's PS](../assets/PS Shadiya.pdf).
 
