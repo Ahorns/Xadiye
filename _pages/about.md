@@ -38,11 +38,11 @@ My Personal Statement here: [Shadiya's PS](../assets/PS Shadiya.pdf).
 # 📝 Publications 
 
 
-
+<!--
 [High-precision Mathematical Modelling of Passive Intermodulation in Connectors](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ell2.12539)
 
 **M. Song**, Q. Jin
-
+-->
 
 - [Urban-Rural Mutual Support](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ell2.12539), C. Jin, Y. Yuan, **S. Alifu**, Z. Xu, Y. Li. **2024 China Urban Planning Annual Conference** 2024
 - [Integrating Smart Transportation and Sustainable Development Goals: A Literature Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596964), **S. Alifu**. **The 4th International Conference on Smart City and Green Energy** 2024
